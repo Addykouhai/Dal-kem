@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\Pictures\\templatemo_590_topic_listing"
+		},
+		{
+			"path": "..\\my new folder"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "templatemo_590_topic_listing"
+	}
+}
